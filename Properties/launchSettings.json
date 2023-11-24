@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ecom_plugin": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7283",
+      "launchBrowser": false
+    }
+  }
+}

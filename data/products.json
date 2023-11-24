@@ -1,0 +1,618 @@
+[
+    {
+        "id": 1,
+        "ProductName": "Cotton Shirt",
+        "ProductDescription": "A classic cotton shirt with a modern fit.",
+        "Price": 39.99,
+        "imageurl": "https://example.com/image1.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 2,
+        "ProductName": "Denim Jeans",
+        "ProductDescription": "A stylish pair of jeans with a slim fit.",
+        "Price": 49.99,
+        "imageurl": "https://example.com/image2.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 3,
+        "ProductName": "Sweater",
+        "ProductDescription": "A warm and cozy sweater for cold days.",
+        "Price": 29.99,
+        "imageurl": "https://example.com/image3.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 4,
+        "ProductName": "T-Shirt",
+        "ProductDescription": "A comfortable and stylish t-shirt.",
+        "Price": 19.99,
+        "imageurl": "https://example.com/image4.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 5,
+        "ProductName": "Hoodie",
+        "ProductDescription": "A stylish hoodie with a modern fit.",
+        "Price": 34.99,
+        "imageurl": "https://example.com/image5.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 6,
+        "ProductName": "Polo Shirt",
+        "ProductDescription": "A classic polo shirt with a modern fit.",
+        "Price": 29.99,
+        "imageurl": "https://example.com/image6.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 7,
+        "ProductName": "Jacket",
+        "ProductDescription": "A stylish jacket with a modern fit.",
+        "Price": 79.99,
+        "imageurl": "https://example.com/image7.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 8,
+        "ProductName": "Shorts",
+        "ProductDescription": "A comfortable pair of shorts for warm days.",
+        "Price": 24.99,
+        "imageurl": "https://example.com/image8.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 9,
+        "ProductName": "Sweatpants",
+        "ProductDescription": "A comfortable pair of sweatpants for relaxing days.",
+        "Price": 39.99,
+        "imageurl": "https://example.com/image9.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 10,
+        "ProductName": "Blazer",
+        "ProductDescription": "A stylish blazer with a modern fit.",
+        "Price": 89.99,
+        "imageurl": "https://example.com/image10.jpg",
+        "Category": "Apparel"
+    },
+    {
+        "id": 11,
+        "ProductName": "Men's Black Leather Jacket",
+        "ProductDescription": "This classic black leather jacket is perfect for any occasion.",
+        "Price": 99.99,
+        "imageurl": "https://example.com/black-leather-jacket.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 12,
+        "ProductName": "Women's Denim Jacket",
+        "ProductDescription": "This stylish denim jacket is perfect for any occasion.",
+        "Price": 49.99,
+        "imageurl": "https://example.com/denim-jacket.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 13,
+        "ProductName": "Men's White T-Shirt",
+        "ProductDescription": "This classic white t-shirt is perfect for any occasion.",
+        "Price": 19.99,
+        "imageurl": "https://example.com/white-t-shirt.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 14,
+        "ProductName": "Women's Black Dress",
+        "ProductDescription": "This classic black dress is perfect for any occasion.",
+        "Price": 59.99,
+        "imageurl": "https://example.com/black-dress.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 15,
+        "ProductName": "Men's Jeans",
+        "ProductDescription": "These classic jeans are perfect for any occasion.",
+        "Price": 39.99,
+        "imageurl": "https://example.com/jeans.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 16,
+        "ProductName": "Women's Leather Skirt",
+        "ProductDescription": "This stylish leather skirt is perfect for any occasion.",
+        "Price": 79.99,
+        "imageurl": "https://example.com/leather-skirt.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 17,
+        "ProductName": "Men's Button-Down Shirt",
+        "ProductDescription": "This classic button-down shirt is perfect for any occasion.",
+        "Price": 29.99,
+        "imageurl": "https://example.com/button-down-shirt.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 18,
+        "ProductName": "Women's Cardigan",
+        "ProductDescription": "This stylish cardigan is perfect for any occasion.",
+        "Price": 49.99,
+        "imageurl": "https://example.com/cardigan.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 19,
+        "ProductName": "Men's Cargo Shorts",
+        "ProductDescription": "These classic cargo shorts are perfect for any occasion.",
+        "Price": 24.99,
+        "imageurl": "https://example.com/cargo-shorts.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 20,
+        "ProductName": "Women's Tank Top",
+        "ProductDescription": "This stylish tank top is perfect for any occasion.",
+        "Price": 14.99,
+        "imageurl": "https://example.com/tank-top.jpg",
+        "Category": "Garments"
+      },
+      {
+        "id": 21,
+        "ProductName": "Women's Wool Coat",
+        "ProductDescription": "A classic wool coat for the winter season. Features a high neckline and a belted waist.",
+        "Price": 150.00,
+        "imageurl": "www.example.com/woolcoat.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 22,
+        "ProductName": "Men's Down Jacket",
+        "ProductDescription": "A lightweight down jacket for the winter season. Features a hood and two front pockets.",
+        "Price": 100.00,
+        "imageurl": "www.example.com/downjacket.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 23,
+        "ProductName": "Women's Fleece Jacket",
+        "ProductDescription": "A cozy fleece jacket for the winter season. Features a zip-up front and two side pockets.",
+        "Price": 80.00,
+        "imageurl": "www.example.com/fleecejacket.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 24,
+        "ProductName": "Men's Ski Pants",
+        "ProductDescription": "A waterproof pair of ski pants for the winter season. Features adjustable waist and leg cuffs.",
+        "Price": 90.00,
+        "imageurl": "www.example.com/skipants.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 25,
+        "ProductName": "Women's Snow Boots",
+        "ProductDescription": "A pair of warm snow boots for the winter season. Features a waterproof upper and a faux fur lining.",
+        "Price": 120.00,
+        "imageurl": "www.example.com/snowboots.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 26,
+        "ProductName": "Men's Wool Scarf",
+        "ProductDescription": "A classic wool scarf for the winter season. Features a soft, warm fabric and a stylish pattern.",
+        "Price": 30.00,
+        "imageurl": "www.example.com/woolscarf.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 27,
+        "ProductName": "Women's Beanie Hat",
+        "ProductDescription": "A cozy beanie hat for the winter season. Features a ribbed design and a faux fur pom pom.",
+        "Price": 25.00,
+        "imageurl": "www.example.com/beaniehat.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 28,
+        "ProductName": "Men's Gloves",
+        "ProductDescription": "A pair of warm gloves for the winter season. Features a ribbed cuff and a faux fur lining.",
+        "Price": 20.00,
+        "imageurl": "www.example.com/gloves.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 29,
+        "ProductName": "Women's Ski Jacket",
+        "ProductDescription": "A waterproof ski jacket for the winter season. Features a zip-up front and two side pockets.",
+        "Price": 110.00,
+        "imageurl": "www.example.com/skijacket.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 30,
+        "ProductName": "Men's Thermal Underwear",
+        "ProductDescription": "A pair of thermal underwear for the winter season. Features a lightweight fabric and a ribbed design.",
+        "Price": 35.00,
+        "imageurl": "www.example.com/thermalunderwear.jpg",
+        "Category": "Winter wear"
+      },
+      {
+        "id": 31,
+        "ProductName": "Black Fishnet Stockings",
+        "ProductDescription": "A classic black fishnet stocking for any occasion.",
+        "Price": 15.99,
+        "imageurl": "http://example.com/black-fishnet-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 32,
+        "ProductName": "Sheer Lace Stockings",
+        "ProductDescription": "These sheer lace stockings will add a touch of elegance to any outfit.",
+        "Price": 17.99,
+        "imageurl": "http://example.com/sheer-lace-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 33,
+        "ProductName": "Cable Knit Stockings",
+        "ProductDescription": "These cable knit stockings are perfect for a cozy winter look.",
+        "Price": 19.99,
+        "imageurl": "http://example.com/cable-knit-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 34,
+        "ProductName": "Striped Stockings",
+        "ProductDescription": "These striped stockings are perfect for adding a bit of fun to any outfit.",
+        "Price": 12.99,
+        "imageurl": "http://example.com/striped-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 35,
+        "ProductName": "Ribbed Stockings",
+        "ProductDescription": "These ribbed stockings are perfect for a classic look.",
+        "Price": 14.99,
+        "imageurl": "http://example.com/ribbed-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 36,
+        "ProductName": "Sheer Polka Dot Stockings",
+        "ProductDescription": "These sheer polka dot stockings are perfect for adding a bit of fun to any outfit.",
+        "Price": 16.99,
+        "imageurl": "http://example.com/sheer-polka-dot-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 37,
+        "ProductName": "Embroidered Stockings",
+        "ProductDescription": "These embroidered stockings are perfect for adding a touch of elegance to any outfit.",
+        "Price": 18.99,
+        "imageurl": "http://example.com/embroidered-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 38,
+        "ProductName": "Argyle Stockings",
+        "ProductDescription": "These argyle stockings are perfect for a classic look.",
+        "Price": 13.99,
+        "imageurl": "http://example.com/argyle-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 39,
+        "ProductName": "Striped Fishnet Stockings",
+        "ProductDescription": "These striped fishnet stockings are perfect for adding a bit of fun to any outfit.",
+        "Price": 17.99,
+        "imageurl": "http://example.com/striped-fishnet-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 40,
+        "ProductName": "Lace Top Stockings",
+        "ProductDescription": "These lace top stockings are perfect for adding a touch of elegance to any outfit.",
+        "Price": 19.99,
+        "imageurl": "http://example.com/lace-top-stockings.jpg",
+        "Category": "Stockings"
+      },
+      {
+        "id": 41,
+        "ProductName": "Performance T-Shirt",
+        "ProductDescription": "A comfortable, lightweight t-shirt designed for maximum performance.",
+        "Price": 24.99,
+        "imageurl": "http://example.com/performance-t-shirt.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 42,
+        "ProductName": "Sports wrist band",
+        "ProductDescription": "A supportive sports wrist band designed for maximum comfort and support and protects against slipperiness from sweat",
+        "Price": 34.99,
+        "imageurl": "http://example.com/sports-wrist-band.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 43,
+        "ProductName": "Running Shorts",
+        "ProductDescription": "Lightweight running shorts designed for maximum breathability and comfort.",
+        "Price": 29.99,
+        "imageurl": "http://example.com/running-shorts.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 44,
+        "ProductName": "Yoga Pants",
+        "ProductDescription": "A comfortable pair of yoga pants designed for maximum flexibility and comfort.",
+        "Price": 39.99,
+        "imageurl": "http://example.com/yoga-pants.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 45,
+        "ProductName": "Compression Leggings",
+        "ProductDescription": "A pair of compression leggings designed for maximum support and comfort.",
+        "Price": 44.99,
+        "imageurl": "http://example.com/compression-leggings.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 46,
+        "ProductName": "Gym Tank Top",
+        "ProductDescription": "A lightweight tank top designed for maximum breathability and comfort.",
+        "Price": 19.99,
+        "imageurl": "http://example.com/gym-tank-top.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 47,
+        "ProductName": "Hiking Shoes",
+        "ProductDescription": "A comfortable pair of hiking shoes designed for maximum support and traction.",
+        "Price": 79.99,
+        "imageurl": "http://example.com/hiking-shoes.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 48,
+        "ProductName": "Sweatpants",
+        "ProductDescription": "A comfortable pair of sweatpants designed for maximum warmth and comfort.",
+        "Price": 39.99,
+        "imageurl": "http://example.com/sweatpants.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 49,
+        "ProductName": "Hoodie",
+        "ProductDescription": "A comfortable hoodie designed for maximum warmth and comfort.",
+        "Price": 49.99,
+        "imageurl": "http://example.com/hoodie.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 50,
+        "ProductName": "Sports Socks",
+        "ProductDescription": "A comfortable pair of sports socks designed for maximum breathability and comfort.",
+        "Price": 14.99,
+        "imageurl": "http://example.com/sports-socks.jpg",
+        "Category": "Active wear"
+    },
+    {
+        "id": 51,
+        "ProductName": "Flamingo Bikini",
+        "ProductDescription": "This pink and blue bikini features a flamingo print with a halter neck and tie-up back.",
+        "Price": 49.99,
+        "imageurl": "https://fictitiousurl.com/flamingo-bikini.jpg",
+        "Category": "Swim wear"
+    },
+    {
+        "id": 52,
+        "ProductName": "Racerback Tankini",
+        "ProductDescription": "This navy and white tankini features a racerback style with a v-neckline and adjustable straps.",
+        "Price": 44.99,
+        "imageurl": "https://fictitiousurl.com/racerback-tankini.jpg",
+        "Category": "Swim wear"
+    },
+    {
+        "id": 53,
+        "ProductName": "Tropical One-Piece",
+        "ProductDescription": "This one-piece swimsuit features a tropical print with a scoop neckline and adjustable straps.",
+        "Price": 54.99,
+        "imageurl": "https://fictitiousurl.com/tropical-one-piece.jpg",
+        "Category": "Swim wear"
+    },
+    {
+        "id": 54,
+        "ProductName": "Floral High-Waisted Bikini",
+        "ProductDescription": "This two-piece bikini features a floral print with a high-waisted bottom and a bandeau top.",
+        "Price": 59.99,
+        "imageurl": "https://fictitiousurl.com/floral-high-waisted-bikini.jpg",
+        "Category": "Swim wear"
+    },
+    {
+        "id": 55,
+        "ProductName": "Surf Shorts",
+        "ProductDescription": "These surf shorts feature a tropical print with an elastic waistband and drawstring closure.",
+        "Price": 39.99,
+        "imageurl": "https://fictitiousurl.com/surf-shorts.jpg",
+        "Category": "Swim wear"
+    },
+    {
+        "id": 56,
+        "ProductName": "Tie-Dye Bikini",
+        "ProductDescription": "This two-piece bikini features a tie-dye print with a halter neck and tie-up back.",
+        "Price": 49.99,
+        "imageurl": "https://fictitiousurl.com/tie-dye-bikini.jpg",
+        "Category": "Swim wear"
+    },
+    {
+        "id": 57,
+        "ProductName": "Mesh Cover-Up",
+        "ProductDescription": "This cover-up features a mesh fabric with a scoop neckline and short sleeves.",
+        "Price": 34.99,
+        "imageurl": "https://fictitiousurl.com/mesh-cover-up.jpg",
+        "Category": "Swim wear"
+    },
+    {
+        "id": 61,
+        "ProductName": "Men's Navy Tuxedo",
+        "ProductDescription": "A navy tuxedo for formal occasions. Includes a jacket, trousers, shirt, and bow tie.",
+        "Price": 399.99,
+        "imageurl": "https://example.com/Formal wear/mens-navy-tuxedo.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 62,
+        "ProductName": "Women's Red Evening Gown",
+        "ProductDescription": "A beautiful red evening gown for formal occasions. Includes a full-length dress and a shawl.",
+        "Price": 499.99,
+        "imageurl": "https://example.com/Formal wear/womens-red-evening-gown.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 63,
+        "ProductName": "Men's Black Suit",
+        "ProductDescription": "A classic black suit for formal occasions. Includes a jacket, trousers, shirt, and tie.",
+        "Price": 299.99,
+        "imageurl": "https://example.com/Formal wear/mens-black-suit.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 64,
+        "ProductName": "Women's White Dress",
+        "ProductDescription": "A white dress for formal occasions. Includes a full-length dress and a shawl.",
+        "Price": 349.99,
+        "imageurl": "https://example.com/Formal wear/womens-white-dress.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 65,
+        "ProductName": "Men's Grey Tuxedo",
+        "ProductDescription": "A grey tuxedo for formal occasions. Includes a jacket, trousers, shirt, and bow tie.",
+        "Price": 399.99,
+        "imageurl": "https://example.com/Formal wear/mens-grey-tuxedo.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 66,
+        "ProductName": "Women's Black Evening Gown",
+        "ProductDescription": "A beautiful black evening gown for formal occasions. Includes a full-length dress and a shawl.",
+        "Price": 499.99,
+        "imageurl": "https://example.com/Formal wear/womens-black-evening-gown.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 67,
+        "ProductName": "Men's White Suit",
+        "ProductDescription": "A classic white suit for formal occasions. Includes a jacket, trousers, shirt, and tie.",
+        "Price": 299.99,
+        "imageurl": "https://example.com/Formal wear/mens-white-suit.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 68,
+        "ProductName": "Women's Navy Dress",
+        "ProductDescription": "A navy dress for formal occasions. Includes a full-length dress and a shawl.",
+        "Price": 349.99,
+        "imageurl": "https://example.com/Formal wear/womens-navy-dress.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 69,
+        "ProductName": "Men's Burgundy Tuxedo",
+        "ProductDescription": "A burgundy tuxedo for formal occasions. Includes a jacket, trousers, shirt, and bow tie.",
+        "Price": 399.99,
+        "imageurl": "https://example.com/Formal wear/mens-burgundy-tuxedo.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 70,
+        "ProductName": "Women's Grey Evening Gown",
+        "ProductDescription": "A beautiful grey evening gown for formal occasions. Includes a full-length dress and a shawl.",
+        "Price": 499.99,
+        "imageurl": "https://example.com/Formal wear/womens-grey-evening-gown.jpg",
+        "Category": "Formal wear"
+      },
+      {
+        "id": 71,
+        "ProductName": "Fashionable Leather Belt",
+        "ProductDescription": "This fashionable leather belt is perfect for any occasion.",
+        "Price": 19.99,
+        "imageurl": "www.fictitiousurl.com/image1.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 72,
+        "ProductName": "Sunglasses",
+        "ProductDescription": "These stylish sunglasses are perfect for any occasion.",
+        "Price": 14.99,
+        "imageurl": "www.fictitiousurl.com/image2.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 73,
+        "ProductName": "Designer Scarf",
+        "ProductDescription": "This designer scarf is perfect for any occasion.",
+        "Price": 24.99,
+        "imageurl": "www.fictitiousurl.com/image3.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 74,
+        "ProductName": "Leather Wallet",
+        "ProductDescription": "This stylish leather wallet is perfect for any occasion.",
+        "Price": 29.99,
+        "imageurl": "www.fictitiousurl.com/image4.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 75,
+        "ProductName": "Designer Watch",
+        "ProductDescription": "This designer watch is perfect for any occasion.",
+        "Price": 59.99,
+        "imageurl": "www.fictitiousurl.com/image5.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 76,
+        "ProductName": "Leather Bag",
+        "ProductDescription": "This stylish leather bag is perfect for any occasion.",
+        "Price": 39.99,
+        "imageurl": "www.fictitiousurl.com/image6.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 77,
+        "ProductName": "Fashionable Hat",
+        "ProductDescription": "This fashionable hat is perfect for any occasion.",
+        "Price": 19.99,
+        "imageurl": "www.fictitiousurl.com/image7.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 78,
+        "ProductName": "Designer Gloves",
+        "ProductDescription": "These designer gloves are perfect for any occasion.",
+        "Price": 24.99,
+        "imageurl": "www.fictitiousurl.com/image8.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 79,
+        "ProductName": "Leather Keychain",
+        "ProductDescription": "This stylish leather keychain is perfect for any occasion.",
+        "Price": 14.99,
+        "imageurl": "www.fictitiousurl.com/image9.jpg",
+        "Category": "Accessories"
+    },
+    {
+        "id": 80,
+        "ProductName": "Designer Belt",
+        "ProductDescription": "This designer belt is perfect for any occasion.",
+        "Price": 29.99,
+        "imageurl": "www.fictitiousurl.com/image10.jpg",
+        "Category": "Accessories"
+    }
+]
